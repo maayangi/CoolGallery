@@ -1,2 +1,1 @@
-#CoolGallery
-this is maayan's gallery.
+This is maayan's gallery.
